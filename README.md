@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linus16666
-- 👀 I’m interested in Machine Learning with a focus on LLMs
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning reinforcement Learning
 - 📫 How to reach me: linus.hirschl@gmx.net
 
